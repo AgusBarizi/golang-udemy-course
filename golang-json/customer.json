@@ -1,0 +1,16 @@
+{
+  "FirstName":"Monkey",
+  "MiddleName":"D",
+  "LastName":"Luffy",
+  "Age":25,
+  "Weight":49.9,
+  "HaveVaccinated":true,
+  "Hobbies":["Swimming", "Dancing"],
+  "Addresses":[
+    {
+      "city" : "Marineford",
+      "postal_code" : 123,
+      "is_main": false
+    }
+  ]
+}
